@@ -1,0 +1,23 @@
+1 - verificar versão
+node -v
+npm -v
+2 - intalação do cli do angular
+npm install -g @angular/cli
+3 - consultar o angular
+ng --version
+4 - criar uma nova aplicação dando um nome
+com opção angular routing = n e css
+ng new todo
+5 - para executar aplicação
+ng serve
+ng serve -o para abrir o navegador
+6 - para a aplicação
+ctrl + c
+7 - Instalar Angular Extension Pack
+8 - criar um componente/service/class
+ng g component produtos/produto-form
+ng g component  produtos/produto-list
+ng g service produtos/shared/produto
+ng g class produtos/shared/produto
+
+
