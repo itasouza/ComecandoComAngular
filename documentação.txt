@@ -19,5 +19,6 @@ ng g component produtos/produto-form
 ng g component  produtos/produto-list
 ng g service produtos/shared/produto
 ng g class produtos/shared/produto
-
+9 - restaura um projeto (Restaurar pasta node_modules - node.js, angular)
+npm install 
 
